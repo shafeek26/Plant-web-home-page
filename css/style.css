@@ -1,0 +1,135 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#navbarMonstera {
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+}
+#navFirst img {
+  width: 100px;
+}
+
+#navMid {
+  display: flex;
+  max-width: 50%;
+  margin-right: 5rem;
+}
+#navMid div {
+  margin-right: 2rem;
+}
+
+#navEnd {
+  display: flex;
+  align-items: center;
+}
+#navEnd div {
+  margin-right: 2rem;
+}
+#navEnd img {
+  width: 20px;
+}
+
+/* Hero section goes here */
+
+#midWhole {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+#midWholePart1 {
+  display: flex;
+  flex-direction: column;
+  margin-top: -90px;
+}
+
+#midWholePart11 {
+  max-width: 40%;
+  margin-left: 3rem;
+  margin-top: 20%;
+}
+
+#monstera {
+  font-family: "Allerta";
+  font-size: 4.5rem;
+  font-weight: 900;
+}
+#midWholePart11 li {
+  font-family: "Allerta";
+  font-size: 0.8rem;
+  font-weight: lighter;
+  padding: 0.2rem;
+}
+
+/* discover button */
+#midWholePart12 {
+  max-width: 40%;
+  margin-left: 3rem;
+  margin-top: 3rem;
+}
+
+#midWholePart121 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1c8d73;
+  border-radius: 1.5rem;
+  width: 180px;
+  padding: 0.5rem 0;
+  color: #ffffff;
+}
+#midWholePart121 h1 {
+  font-family: "Allerta";
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#midWholePart122 img {
+  width: 13px;
+  margin-top: 0.4rem;
+  margin-left: 0.5rem;
+}
+/* bottom component styling */
+
+#midWholePart13 {
+  display: flex;
+  align-items: center;
+  max-width: 65%;
+  margin-top: 6%;
+}
+.midWholePart13Parts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.midWholePart13Parts h4 {
+  font-family: "Allerta";
+  font-size: 0.9rem;
+  padding: 0 0.5rem;
+}
+#feeding,
+#care {
+  margin: 0 0.5rem;
+  width: 45px;
+}
+#light {
+  margin-right: 0.5rem;
+  width: 25px;
+}
+.text {
+  padding: 0.5rem;
+  font-size: 10px;
+}
+
+#imgMain {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 400px;
+}
