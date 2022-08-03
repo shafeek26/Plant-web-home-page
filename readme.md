@@ -2,7 +2,7 @@
 
 **I'm passionate about opensource and want to become a Full Stack Developer.**
 
-# Project Name : Crypto Landing Page !
+# Project Name : Plant Home Page !
 
 In this project i have created a landing page from scratch. And i have learnt a lot of things like how to position HTML elements using common CSS selectors,i have also learnt about positions mainly in this project.
 
@@ -23,4 +23,4 @@ In this project i have created a landing page from scratch. And i have learnt a 
 ![image](images/page.png)
 
 ## You can Preview it Live on Below Link :
-**[Live Link !](https://05-crypto-landing-page.netlify.app/)**
+**[Live Link !](https://06-plant-web-home-page.netlify.app/)**
